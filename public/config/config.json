@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5a6961ca06A902a75eEcC8658fb0e2391e30672F",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5a6961ca06a902a75eecc8658fb0e2391e30672f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Simple Punks.",
+  "SYMBOL": "SPN",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/simple-punks-1",
+  "SHOW_BACKGROUND": true
+}
